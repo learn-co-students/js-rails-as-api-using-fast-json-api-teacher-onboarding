@@ -16,6 +16,8 @@ gem 'puma', '~> 3.11'
 # gem 'redis', '~> 4.0'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
+# Use fast_jsonapi for JSON serializer
+gem 'fast_jsonapi'
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
